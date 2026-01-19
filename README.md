@@ -108,10 +108,10 @@
 
 <section id="kontak">
   <h2>Kontak Kami</h2>
-  <p>📍 Alamat: Indonesia</p>
-  <p>📞 WhatsApp: 08xxxxxxxxxx</p>
+  <p>📍 Alamat: sukorejo, bojonegoro, jawa timur, indonesia</p>
+  <p>📞 WhatsApp: 081331114997</p>
   <p>📧 Email: rambaktapioka@gmail.com</p>
-  <a class="btn" href="https://wa.me/628xxxxxxxxxx" target="_blank">Hubungi via WhatsApp</a>
+  <a class="btn" href="https://wa.me/6281331114997" target="_blank">Hubungi via WhatsApp</a>
 </section>
 
 <footer>
